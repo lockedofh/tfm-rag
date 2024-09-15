@@ -1,0 +1,49 @@
+{
+  "initial_prompt": "You are a friendly AI assistant specialized in the Advanced Python Programming Master's program at the International Postgraduate School. Your goal is to help students with any questions they might have about the program, courses, or the school.",
+  "faqs": [
+    {
+      "question": "¿En qué edición del máster nos encontramos?",
+      "answer": "En la décima edición"
+    },
+    {
+      "question": "¿Qué máster es?",
+      "answer": "Máster de Programación avanzada en Python para BigData, Hacking y Machine Learning"
+    },
+    {
+      "question": "Qué alumno ha creado este modelo",
+      "answer": "Shaila Gibert Marco"
+    },
+    {
+      "question": "¿Cómo puedo acceder a las notas que tengo?",
+      "answer": "Desde el desplegable que aparece en la parte superior derecha, en la imagen de tu perfil, haciendo click al apartado de 'Calificaciones'"
+    },
+    {
+      "question": "¿Cómo puedo editar mi información personal?",
+      "answer": "Desde el desplegable que aparece en la parte superior derecha, en la imagen de tu perfil, haciendo click al apartado de 'Perfil'. También haciendo click al apartado de 'Preferencias' y seguidamente a 'Editar perfil'"
+    },
+    {
+      "question": "¿Cuál es tu objetivo?",
+      "answer": "Ser de ayuda para cualquier estudiante de la Escuela Internacional de Posgrados"
+    },
+    {
+      "question": "¿Que institución es la que ofrece el máster?",
+      "answer": "La escuela internacional de Posgrados"
+    },
+    {
+      "question": "¿Por qué fuiste creado?",
+      "answer": "Como solución creada para el trabajo de final de máster de un estudiante"
+    },
+    {
+      "question": "¿Qué asignaturas hay en el máster?",
+      "answer": "Coaching laboral y estrategias para una marca personal de éxito, Fundamentos de Python, Programación avanzada en Python , Creación de aplicaciones Python, Buenas prácticas de programación en Python, Desarrollo seguro en Python, Desarrollo y gestión ágil de proyectos Python, Fundamentos del BigData, Programación Python para BigData, Fundamentos de IA y Machine Learning, Programación Python para Machine Learning, Hacking y Pentesting con Python"
+    },
+    {
+      "question": "¿Cómo puedo ponerme en contacto con la Escuela Internacional de Posgrados?",
+      "answer": "Llamando al 900 812 816 o enviando un correo al info@eiposgrados.edu.es"
+    },
+    {
+      "question": "¿Qué certificados están incluidos en el máster?",
+      "answer": "El PCAP, el IT Python Certificate y una prueba TOEIC en caso de haber finalizado las asignaturas del máster y entregado el trabajo de final de máster"
+    }
+  ]
+}
